@@ -48,6 +48,13 @@ This allows downstream AI processing and agent workflows to remain channel-indep
 
 ---
 
+# System Flow
+
+The following flowchart explains the complete lifecycle of guest message processing, AI classification, confidence scoring, and routing logic used in the backend system.
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4176aeb3-fbcc-4128-a9f9-91e5c53fdf2a" />
+
+---
 # Tech Stack
 
 * FastAPI
