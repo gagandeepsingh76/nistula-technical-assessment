@@ -409,22 +409,19 @@ docker rm -f nistula-pg
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```text
 nistula-technical-assessment/
-│
-├── .env.example
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── schema.sql
-├── thinking.md
+
+├── README.md                # setup instructions and confidence scoring logic explained
+├── requirements.txt         # Python dependencies
+├── schema.sql               # Part 2 SQL with comments
+├── thinking.md              # Part 3 written answers
 │
 └── src/
-    └── main.py
+    └── main.py              # Part 1 webhook backend code
 ```
-
 ---
 
 # Security Notes
