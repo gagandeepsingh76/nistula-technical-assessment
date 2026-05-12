@@ -108,3 +108,6 @@ ALTER TABLE messages ADD CONSTRAINT fk_messages_agent FOREIGN KEY (agent_id) REF
 -- compare results side by side, a separate ai_processing_log table would
 -- be warranted. For now, simplicity and query performance win.
 -- ============================================================
+
+-- Gagandeep Singh
+--gagandeep455789@gmail.com
