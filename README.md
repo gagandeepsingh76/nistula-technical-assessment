@@ -64,7 +64,7 @@ This allows downstream AI processing and agent workflows to remain channel-indep
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/nistula-technical-assessment.git
+git clone https://github.com/gagandeepsingh76/nistula-technical-assessment.git
 cd nistula-technical-assessment
 ```
 
