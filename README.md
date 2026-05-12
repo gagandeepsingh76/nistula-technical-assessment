@@ -434,9 +434,8 @@ nistula-technical-assessment/
 # Security Notes
 
 * Real API keys are never committed.
-* `.env` is ignored using `.gitignore`.
+* `.env` is not included in the repository.
 * `.env.example` contains placeholder values only.
-
 ---
 
 # Final Verification Status
